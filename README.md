@@ -1,1 +1,3 @@
 # Predicting-Energy-Consumption-A-Comparison-of-ARIMA-UCM-and-Deep-Learning-models
+This repository contains the data used in the paper titled "Energy Consumption Prediction: A Comparison of ARIMA, UCM, and a Transformer Deep Learning Model". The paper compares the performance of three models - ARIMA, UCM and a transformer deep learning model - on energy consumption prediction. This new deep learning architecture was able to outperform the classical statistical models with the lowest Mean Absolute Error (MAE). 
+The dataset provided in this repository can be used for replicating the results of the paper. 
